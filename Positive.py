@@ -1,5 +1,5 @@
-a=int(input("enter a no"))
+a=int(input(" "))
 if (a>0):
-    print("positive")
+    print("Positive")
 else:
     print("Negative")
